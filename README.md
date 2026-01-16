@@ -72,4 +72,19 @@ FIFO buffers are widely used in digital systems to:
   (binary pointers, Gray code conversion, pointer synchronization).
 - Testbenches are written for functional verification only.
 
+---
+
+## Author
+
+**Satyam Chauhan**  
+Undergraduate Student, Electronics & Communication Engineering  
+Indian Institute of Technology (IIT) Patna  
+
+GitHub: https://github.com/satyam-8720  
+Email: <satyamchauhan181104@gmail.com> 
+
+This project was developed as part of learning and understanding
+FIFO design concepts, including synchronous and asynchronous FIFOs,
+with emphasis on RTL design and verification.
+
 
