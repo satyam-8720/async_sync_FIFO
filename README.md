@@ -52,16 +52,17 @@ FIFO buffers are widely used in digital systems to:
 
 
 ## Repository Structure
-.
-├── synchronous_fifo/
-│   ├── README.md
-│   ├── rtl/
-│   └── testbench/
-├── asynchronous_fifo/
-│   ├── README.md
-│   ├── rtl/
-│   └── testbench/
-└── README.md
+
+    .
+    ├── synchronous_fifo/
+    │   ├── README.md
+    │   ├── rtl/
+    │   └── testbench/
+    ├── asynchronous_fifo/
+    │   ├── README.md
+    │   ├── rtl/
+    │   └── testbench/
+    └── README.md
 
 ---
 
